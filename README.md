@@ -1,13 +1,8 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+Formulário de criação de contas para o banco virtual DGBank.
+Pagina com intuido de desenvolvimento de formularios e validações de dados.
+Clicando em criar conta será direcionado a página do formulário, alem do preencimento de dados foi incluido um verificador de CPF e Verificar maior ídade. 
 
-<hr>
-
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
-
-## Tecnologias utilizadas durante o curso
+## Tecnologias utilizadas :
 * JavaScript
-
-## Tecnologias utilizadas no projeto
 * HTML
 * CSS
